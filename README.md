@@ -12,13 +12,20 @@
 
 **Version Control:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
-<!--
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ning733&show_icons=true&hide_title=false&hide=prs&count_private=true&theme=radical)
+
+![GitHub Contribution Summary](https://github-readme-streak-stats.herokuapp.com/?user=ning733&theme=radical)
+
+
+
+<!--
 **ning733/ning733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**putting language data
+![GitHub Contribution Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=ning733&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

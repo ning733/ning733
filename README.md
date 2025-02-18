@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hi there, I am Chun Ning Yip
 
 <!--
 **ning733/ning733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

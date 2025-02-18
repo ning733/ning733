@@ -1,5 +1,11 @@
 ## 👋Hi there, I am Chun Ning Yip
 
+## Skills
+
+**Languages & Syntax:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=ffffff)
+
 <!--
 **ning733/ning733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 ## Skills
 **Languages & Syntax:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=ffffff)
 
 **Data Tools:**  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=ffffff)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
